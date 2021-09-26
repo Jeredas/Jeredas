@@ -1,6 +1,5 @@
 # Hi, I'm Uladzimir Kamarou
 
-### About my-self  
 
 I'm a beginner Front-end developer who likes to work with JavaScript/Typescript (React, Redux , Node.js, Express, Material-ui). 
 
