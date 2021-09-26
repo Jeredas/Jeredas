@@ -1,6 +1,7 @@
 # Hi, I'm Uladzimir Kamarou
 
-###About my-self
+### About my-self  
+
 I'm a beginner Front-end developer who likes to work with JavaScript/Typescript (React, Redux , Node.js, Express, Material-ui). 
 
 In 2020 i decided to switch my profession from engineer to developer . I've finished several cources and keep moving forward.
