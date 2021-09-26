@@ -7,9 +7,10 @@ I'm a beginner Front-end developer who likes to work with JavaScript/Typescript 
 In 2020 i decided to switch my profession from engineer to developer . I've finished several cources and keep moving forward.
 I have pretty solid knowleges in vanila JS and TS, have expierence in developing SPA using React library. 
 Also I took part in team develop, using Agile & Scrum methodology and git / github.
+My goal is to become highly qualified specialist in front-end development.
 <br />
 
-#### My technologies' stack:  
+#### My technology stack:  
  
 * JavaScript ES6, ES2020;
 * TypeScript;
@@ -41,12 +42,3 @@ Also I took part in team develop, using Agile & Scrum methodology and git / gith
 * <a href=''>Plaining pocker(comming soon...)</a>
 
 <br />
-<a href="https://aralroca.us8.list-manage.com/subscribe/post?u=29d99171aa3f671bde658475a&id=9f1a0b31e3">
-  <table align="right">
-      <tr>
-          <td>
-            👉 &nbsp;&nbsp;Subscribe to the newsletter
-          </td>
-      </tr>
-  </table>
-</a>
