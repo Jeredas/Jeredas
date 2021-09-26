@@ -34,7 +34,7 @@ Also I took part in team develop, using Agile & Scrum methodology and git / gith
 #### My works:
  
 * <a href='https://codejam-chess.netlify.app/'>Team project CodeJamChess</a>
-* <a href='https://rolling-scopes-school.github.io/jeredas-JSFE2021Q1/match-match-game/'>Photo filter</a>
+* <a href='https://rolling-scopes-school.github.io/jeredas-JSFE2021Q1/match-match-game/'>Match-match-game</a>
 * <a href='https://rolling-scopes-school.github.io/jeredas-JSFE2021Q1/online-zoo/pages/landing/landing.html'>Online Zoo</a>
 * <a href='https://rolling-scopes-school.github.io/jeredas-JSFE2021Q1/virtual-piano'>Virtual-piano</a>
 * <a href='https://rolling-scopes-school.github.io/jeredas-JSFE2021Q1/photo-filter'>Photo filter</a>
