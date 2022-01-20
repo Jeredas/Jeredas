@@ -38,6 +38,6 @@ My goal is to become highly qualified specialist in front-end development.
 * <a href='https://rolling-scopes-school.github.io/jeredas-JSFE2021Q1/online-zoo/pages/landing/landing.html'>Online Zoo</a>
 * <a href='https://rolling-scopes-school.github.io/jeredas-JSFE2021Q1/virtual-piano'>Virtual-piano</a>
 * <a href='https://rolling-scopes-school.github.io/jeredas-JSFE2021Q1/photo-filter'>Photo filter</a>
-* <a href=''>Plaining pocker(comming soon...)</a>
+* <a href='https://currency-rates-jeredas.netlify.app/'>Currency rates</a>
 
 <br />
