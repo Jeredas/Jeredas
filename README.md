@@ -1,12 +1,7 @@
 # Hi, I'm Uladzimir Kamarou
 
 
-I'm a beginner Front-end developer who likes to work with JavaScript/Typescript (React, Redux , Node.js, Express, Material-ui). 
-
-In 2020 i decided to switch my profession from engineer to developer . I've finished several cources and keep moving forward.
-I have pretty solid knowleges in vanila JS and TS, have expierence in developing SPA using React library. 
-Also I took part in team develop, using Agile & Scrum methodology and git / github.
-My goal is to become highly qualified specialist in front-end development.
+Full-stack developer at LCC SoftTeco
 <br />
 
 #### My technology stack:  
